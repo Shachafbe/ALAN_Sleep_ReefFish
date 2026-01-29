@@ -999,4 +999,5 @@ end_f = start_f+5000; % end frame
 
 plotFishMovie(coor,mov,'fish_i',fish_i,'points_i',points_i,'start_f',start_f,...
     'end_f',end_f,'data_per_point',3,'points_per_fish',Num_dots)
+
 %%
