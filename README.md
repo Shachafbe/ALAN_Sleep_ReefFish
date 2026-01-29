@@ -12,7 +12,6 @@ All raw data files and custom analysis scripts will be fully uploaded and made p
 Upon release, this repository will be organized as follows:
 * `code/`: Custom R and Python scripts for behavioral tracking and statistical analysis.
 * `data/`: Raw datasets for field observations and laboratory experiments (CSV format).
-* `figures/`: Code to reproduce the main figures of the manuscript.
 * `Protocols/`: Immunohistocimestry Protocols
 
 ## Contact
